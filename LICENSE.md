@@ -1,4 +1,4 @@
-# 
+# Oficial AI leaf disease detection system plantillas. Con toma de decisiones automatizada y modelos de aprendizaje profundo — optimizado para el máximo rendimiento.
 
 
 
